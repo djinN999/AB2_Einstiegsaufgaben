@@ -15,7 +15,7 @@ namespace part2_3
 			zahl2 = Convert.ToInt32(Console.ReadLine());
 			while (zahl2 == 0)
 			{		
-				Console.WriteLine("Durch 0 kann nicht geteilt werden, geben Sie einen gültigen Divisot ein: ");
+				Console.WriteLine("Durch 0 kann nicht geteilt werden, geben Sie einen gültigen Divisor ein: ");
 				zahl2 = Convert.ToInt32(Console.ReadLine());
 			}
 
